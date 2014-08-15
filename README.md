@@ -1,4 +1,6 @@
 qdjango-db
 ==========
 
-The db-part of qdjango
+This project is the orm/db part of [qdjango](https://github.com/jlaine/qdjango/), Qt-based C++ web framework
+
+No changes were applied. Versioning follows qdjango.
